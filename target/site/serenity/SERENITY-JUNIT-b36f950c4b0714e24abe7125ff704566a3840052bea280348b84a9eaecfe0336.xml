@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Login" skipped="0" tests="1" time="12.78" timestamp="2023-07-12 12:17:23"><testcase name="Login Successful"><failure message="&#10;Expected: is &quot;bolso&quot;&#10;     but: was &quot;Sauce Labs Backpack&quot;" type="java.lang.AssertionError">
+Expected: is "bolso"
+     but: was "Sauce Labs Backpack"</failure><system-err>
+Expected: is "bolso"
+     but: was "Sauce Labs Backpack"&#13;
+com.co.swaglabs.stepsdefinitions.LoginStepsDefinitions.authenticallySuccessfully(LoginStepsDefinitions.java:59)&#13;
+✽.authentically successfully(src/test/resources/features/login.feature:9)&#13;
+</system-err></testcase></testsuite>

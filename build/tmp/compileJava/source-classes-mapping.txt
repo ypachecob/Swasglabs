@@ -1,0 +1,10 @@
+com/co/swaglabs/taks/ProductoPage.java
+ com.co.swaglabs.taks.ProductoPage
+com/co/swaglabs/models/Credentials.java
+ com.co.swaglabs.models.Credentials
+com/co/swaglabs/userinterfaces/LonginPage.java
+ com.co.swaglabs.userinterfaces.LonginPage
+com/co/swaglabs/questions/ValidarProducto.java
+ com.co.swaglabs.questions.ValidarProducto
+com/co/swaglabs/taks/Login.java
+ com.co.swaglabs.taks.Login
